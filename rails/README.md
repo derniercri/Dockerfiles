@@ -25,7 +25,7 @@ docker build -t <your-app-name> --build-arg [RUBY_VERSION=2.3,RAILS_VERSION=4.0]
 
 *Notes :*
 
-- *either **RAILS_VERSION** and **RUBY_VERSION** are optionnal and default respectively to 2.4 and 5.0.1 ;*
+- *either __RAILS_VERSION__ and __RUBY_VERSION__ are optionnal and default respectively to 2.4 and 5.0.1 ;*
 - *__RUBY_VERSION__ should only indicate the standard version (eg: 2.3 not 2.3.3).*
 
 ## Run your image
