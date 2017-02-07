@@ -15,6 +15,8 @@ RUN  apt-get update \
   patch \
   nodejs \
   npm \
+  libssl-dev \
+  libsqlite3-dev \
   zlib1g-dev \
   liblzma-dev \
   libpq-dev \
